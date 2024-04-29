@@ -26,11 +26,15 @@ event_filter = function(data, subset, numberConditions = 2) {
     return(data %>% filter(SUBJECT_ID %in% (subset$SUBJECT_ID)))
   return(data %>% filter(SUBJECT_ID %in% (subset$SUBJECT_ID) & HADM_ID %in% subset$HADM_ID))
 }
-rn = function(tuple, convertTimeToLong=T, formatting="%Y-%m-%d %H:%M:%S") {
+rn = function(tuple, convertTimeToLong=T, formatting="%Y-%m-%d %H:%M:%S", formatting2="%Y-%m-%d") {
   # 'rn' renames the 4 column file and does time formatting
   names(tuple) = c("pt","t","event", "value")[1:length(tuple)]
-  if(convertTimeToLong)
-    return(tuple %>% mutate(t=as.POSIXct(strptime(t, format=formatting))%>%unclass()))
+  if(convertTimeToLong) {
+    result = tuple %>% mutate(t1=as.POSIXct(strptime(t, format=formatting))%>%unclass()) %>%
+      mutate(t = case_when(is.na(t1) ~ as.POSIXct(strptime(t, format=formatting2)) %>% unclass(),
+                                             T ~ t1)) %>% select(-t1)
+    return(result)
+  }
   tuple
 }
 rn2 = function(double, newcol="feature") {
