@@ -308,6 +308,9 @@ tl = tl %>% bind_rows(
 # make events all lower case
 tl = tl %>% mutate(event = str_to_lower(event))
 
+# make times as datetimes
+tl = tl %>% mutate(t = lubridate::as_datetime(t))
+
 # sort
 tl = tl %>% arrange(pt, t, event)
 
