@@ -13,7 +13,7 @@ library(data.table)
 ### Set path and directory locations
 setwd("<path to your working directory>")
 mimicdir = "<path to your mimic 3 v1.4 dir>"
-match_file = "<path to matched.csv>"
+match_file = "matched.csv"
 nameExtension = "pakdd2024"
 prefix = paste0("r/extractions/",nameExtension,"/")
 
@@ -30,8 +30,8 @@ rn = function(tuple, convertTimeToLong=T, formatting="%Y-%m-%d %H:%M:%S", format
   # 'rn' renames the 4 column file and does time formatting
   names(tuple) = c("pt","t","event", "value")[1:length(tuple)]
   if(convertTimeToLong) {
-    result = tuple %>% mutate(t1=as.POSIXct(strptime(t, format=formatting))%>%unclass()) %>%
-      mutate(t = case_when(is.na(t1) ~ as.POSIXct(strptime(t, format=formatting2)) %>% unclass(),
+    result = tuple %>% mutate(t1=as.POSIXct(strptime(t, format=formatting, tz="UTC"))%>%unclass()) %>%
+      mutate(t = case_when(is.na(t1) ~ as.POSIXct(strptime(t, format=formatting2, tz="UTC")) %>% unclass(),
                                              T ~ t1)) %>% select(-t1)
     return(result)
   }
