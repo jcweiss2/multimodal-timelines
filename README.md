@@ -20,7 +20,7 @@ $ python -m spacy download en_core_web_sm
 - Create the initial structured data by running `mimic3buildtimeline_pakdd.R`. Please set the working directory and the MIMIC-III directory before running it.
 - Create the absolute timeline dataset and the structured data by running `preprocess_dataset.ipynb`.
 
-## Run code
+## Run classification
 
 - Unimodal absolute timeline prediction (3-class classification)
 ```
@@ -35,7 +35,7 @@ $ python main.py --config-name=bert_cls_m3c_cv seed=42 test=true --multirun
 - Multimodal absolute timeline prediction (3-class classification)
 ```
 # Train/eval on the first fold. It requires 45GB VRAM.
-# Multi-GPU training is enabled with num_gpus option. Currently, num_gpus > 1 will utillize all available GPUs.
+# Multi-GPU training is enabled with num_gpus option. Currently, num_gpus > 1 will utilize all visible GPUs.
 $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 cv_idx=0 trainer.params.num_gpus=2
 $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 cv_idx=0 trainer.params.num_gpus=2 test=true
 
@@ -43,3 +43,4 @@ $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 cv_idx=0 trainer.par
 $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 trainer.params.num_gpus=2 --multirun
 $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 trainer.params.num_gpus=2 test=true --multirun
 ```
+- The checkpoints of all experiments used in the paper (5-fold CV of uni/multimodal models with 3 different seeds) can be downloaded [here (30GB)](https://drive.google.com/file/d/1SPlVZdqfy8I44EWhLRMFxC_eukpmNKnH/view?usp=drive_link).
