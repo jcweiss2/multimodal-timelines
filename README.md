@@ -1,6 +1,6 @@
 # multimodal-timelines
 
-Placeholder for our PAKDD2024 paper: "Using Multimodal Data to Improve Precision of Inpatient Event Timelines". Lecture Notes in Artificial Intelligence, Springer, 2024.  
+Code for our PAKDD2024 paper: "Using Multimodal Data to Improve Precision of Inpatient Event Timelines". Lecture Notes in Artificial Intelligence, Springer, 2024.  
 Authors: Gabriel Frattallone-Llado\*, Juyong Kim\*, Cheng Cheng, Diego Salazar, Smitha Edakalavan, and Jeremy C. Weiss
 
 ## Setting up
@@ -22,7 +22,7 @@ $ python -m spacy download en_core_web_sm
 
 ## Run code
 
-- Unimodal absolute timeline prediction
+- Unimodal absolute timeline prediction (3-class classification)
 ```
 # Train/eval on the first fold (5-fold CV) with random seed 42.
 $ python main.py --config-name=bert_cls_m3c_cv seed=42 cv_idx=0
@@ -32,10 +32,10 @@ $ python main.py --config-name=bert_cls_m3c_cv seed=42 cv_idx=0 test=true
 $ python main.py --config-name=bert_cls_m3c_cv seed=42 --multirun
 $ python main.py --config-name=bert_cls_m3c_cv seed=42 test=true --multirun
 ```
-- Multimodal absolute timeline prediction
+- Multimodal absolute timeline prediction (3-class classification)
 ```
-# Train/eval on the first fold (5-fold CV) with random seed 42. It requires 45GB VRAM.
-# Multi-GPU train is enabled with num_gpus option. Currently num_gpus > 1 will utillize all available GPUs.
+# Train/eval on the first fold. It requires 45GB VRAM.
+# Multi-GPU training is enabled with num_gpus option. Currently, num_gpus > 1 will utillize all available GPUs.
 $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 cv_idx=0 trainer.params.num_gpus=2
 $ python main.py --config-name=bert_cls_m3c_attn_cv seed=42 cv_idx=0 trainer.params.num_gpus=2 test=true
 
