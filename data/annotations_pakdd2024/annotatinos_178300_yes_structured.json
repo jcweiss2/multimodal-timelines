@@ -1,0 +1,4925 @@
+[
+    {
+        "text_position": {
+            "start": 0,
+            "end": 9
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:55:38",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -2261.0,
+                1816.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 45,
+            "end": 54
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:55:59",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                438346.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 133,
+            "end": 140
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:56:29",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -2575.0,
+                438346.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 142,
+            "end": 149
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:56:32",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -2575.0,
+                438346.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 151,
+            "end": 160
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:56:51",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 162,
+            "end": 174
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:01",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 177,
+            "end": 188
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:04",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 191,
+            "end": 204
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:09",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 207,
+            "end": 219
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:14",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 222,
+            "end": 228
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:20",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 231,
+            "end": 240
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:24",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 243,
+            "end": 257
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:31",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 260,
+            "end": 273
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:57:35",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438346.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 275,
+            "end": 284
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:58:01",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -1320.0,
+                438346.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 313,
+            "end": 328
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:58:45",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -16060.0,
+                438346.0,
+                "4h",
+                "1h",
+                "4h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 330,
+            "end": 349
+        },
+        "pt": "178300",
+        "time": "2023-03-30 11:59:07",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438973.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            41,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 351,
+            "end": 387
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:01:21",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                89310.0,
+                95268.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            28
+        ]
+    },
+    {
+        "text_position": {
+            "start": 389,
+            "end": 393
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:01:26",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                89310.0,
+                95268.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            28
+        ]
+    },
+    {
+        "text_position": {
+            "start": 396,
+            "end": 422
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:01:52",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                2129.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 503,
+            "end": 517
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:02:02",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                2129.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 521,
+            "end": 540
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:02:19",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437405.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            41,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 553,
+            "end": 607
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:03:16",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                -8098950.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 650,
+            "end": 661
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:04:16",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 665,
+            "end": 686
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:04:46",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438033.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            44
+        ]
+    },
+    {
+        "text_position": {
+            "start": 714,
+            "end": 723
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:05:06",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438033.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            45
+        ]
+    },
+    {
+        "text_position": {
+            "start": 727,
+            "end": 750
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:05:12",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438033.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            45
+        ]
+    },
+    {
+        "text_position": {
+            "start": 756,
+            "end": 780
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:05:27",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                875.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 782,
+            "end": 810
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:05:53",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437405.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            46
+        ]
+    },
+    {
+        "text_position": {
+            "start": 816,
+            "end": 852
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:06:04",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437405.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            49
+        ]
+    },
+    {
+        "text_position": {
+            "start": 866,
+            "end": 874
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:06:23",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 878,
+            "end": 887
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:06:26",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 889,
+            "end": 908
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:06:32",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 910,
+            "end": 919
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:06:34",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 932,
+            "end": 939
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:06:37",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 948,
+            "end": 959
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:07:12",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -2575.0,
+                1816.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 964,
+            "end": 981
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:07:45",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                68299.0,
+                72062.0,
+                "6h",
+                "6h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 1016,
+            "end": 1032
+        },
+        "pt": "178300",
+        "time": "2023-03-30 12:09:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -2575.0,
+                2129.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1035,
+            "end": 1055
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:18:11",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1060,
+            "end": 1083
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:18:54",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            45
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1118,
+            "end": 1146
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:03",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            46
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1151,
+            "end": 1165
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:07",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            46
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1171,
+            "end": 1193
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:15",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            49
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1209,
+            "end": 1220
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:26",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1359,
+            "end": 1380
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:42",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            44
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1402,
+            "end": 1414
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:53",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            47
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1419,
+            "end": 1439
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:19:59",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            48
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1089,
+            "end": 1095
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:20:15",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1226,
+            "end": 1244
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:20:22",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1385,
+            "end": 1397
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:20:29",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1445,
+            "end": 1467
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:20:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1278,
+            "end": 1313
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:21:22",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                -8115414.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 1470,
+            "end": 1484
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:21:44",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1497,
+            "end": 1504
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:21:49",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1542,
+            "end": 1556
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:21:54",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1569,
+            "end": 1571
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:21:58",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1593,
+            "end": 1595
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:22:05",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                1188.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1604,
+            "end": 1617
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:22:47",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1619,
+            "end": 1622
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:22:49",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1624,
+            "end": 1627
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:22:52",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1628,
+            "end": 1633
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:22:54",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1635,
+            "end": 1638
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:22:57",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1639,
+            "end": 1641
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:00",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1643,
+            "end": 1646
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:02",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1651,
+            "end": 1652
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:06",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1653,
+            "end": 1654
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:08",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1655,
+            "end": 1656
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:11",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1657,
+            "end": 1662
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:15",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1664,
+            "end": 1668
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:18",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1669,
+            "end": 1672
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:21",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1674,
+            "end": 1678
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:24",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1681,
+            "end": 1691
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:31",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1697,
+            "end": 1704
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1709,
+            "end": 1712
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:37",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1714,
+            "end": 1728
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:42",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1729,
+            "end": 1732
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:44",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1737,
+            "end": 1738
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:48",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1739,
+            "end": 1740
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:23:54",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1741,
+            "end": 1742
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:04",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1743,
+            "end": 1748
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:07",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1757,
+            "end": 1760
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:24",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1762,
+            "end": 1765
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:28",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1773,
+            "end": 1780
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:32",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1782,
+            "end": 1794
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:36",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1796,
+            "end": 1803
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:44",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1821,
+            "end": 1826
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:24:48",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -3202.0,
+                2129.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1841,
+            "end": 1858
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:25:19",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            1,
+            2
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1885,
+            "end": 1892
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:25:41",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            17
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1896,
+            "end": 1902
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:25:50",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            22
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1907,
+            "end": 1912
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:25:58",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            16
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1918,
+            "end": 1924
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:26:06",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            21
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1929,
+            "end": 1938
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:26:18",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            20
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1944,
+            "end": 1952
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:26:26",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            15
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1957,
+            "end": 1966
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:26:35",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            13
+        ]
+    },
+    {
+        "text_position": {
+            "start": 1970,
+            "end": 1979
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:26:48",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7147.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            12
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2008,
+            "end": 2015
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:27:10",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            14
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2020,
+            "end": 2029
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:27:20",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            19
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2034,
+            "end": 2043
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:27:28",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            18
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2073,
+            "end": 2076
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:27:39",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            11
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2081,
+            "end": 2084
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:27:46",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            10
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2090,
+            "end": 2093
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:27:55",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            1
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2099,
+            "end": 2102
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:04",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            23
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2108,
+            "end": 2111
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:11",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            5
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2115,
+            "end": 2118
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:20",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            3
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2124,
+            "end": 2128
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:26",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            4
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2135,
+            "end": 2138
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            9
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2169,
+            "end": 2178
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:48",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            6
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2209,
+            "end": 2211
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:28:58",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            7
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2217,
+            "end": 2220
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:29:05",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            8
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2226,
+            "end": 2233
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:29:13",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                3697.0,
+                7460.0,
+                "4h",
+                "4h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            2
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2239,
+            "end": 2260
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:29:55",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -2575.0,
+                438973.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2270,
+            "end": 2287
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:30:39",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                68299.0,
+                71748.0,
+                "6h",
+                "6h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 2292,
+            "end": 2300
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:30:47",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                68299.0,
+                71748.0,
+                "6h",
+                "6h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 2343,
+            "end": 2352
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:31:42",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                88683.0,
+                94328.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            28
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2353,
+            "end": 2362
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:31:50",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                88683.0,
+                94328.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            28
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2389,
+            "end": 2400
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:32:19",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92132.0,
+                96209.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            27,
+            28
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2404,
+            "end": 2407
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:33:25",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                93073.0,
+                213495.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            33
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2417,
+            "end": 2443
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:33:38",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                93073.0,
+                213495.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            33
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2445,
+            "end": 2449
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:33:42",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                93073.0,
+                213495.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            33
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2454,
+            "end": 2464
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:33:45",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                93073.0,
+                213495.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            33
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2487,
+            "end": 2498
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:34:27",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                210359.0,
+                214123.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2543,
+            "end": 2551
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:41:20",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                93387.0,
+                221649.0,
+                "2h",
+                "12h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            29,
+            36
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2556,
+            "end": 2563
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:43:41",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                220395.0,
+                223217.0,
+                "12h",
+                "12h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 2583,
+            "end": 2591
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:45:48",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                199383.0,
+                437719.0,
+                "1d",
+                "1h",
+                "1d"
+            ]
+        ],
+        "selected_row_idxs": [
+            39,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2614,
+            "end": 2620
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:46:56",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                242033.0,
+                244542.0,
+                "12h",
+                "12h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 2621,
+            "end": 2629
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:47:00",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                242033.0,
+                244542.0,
+                "12h",
+                "12h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 2634,
+            "end": 2640
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:47:04",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                242033.0,
+                244542.0,
+                "12h",
+                "12h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": []
+    },
+    {
+        "text_position": {
+            "start": 2645,
+            "end": 2654
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:47:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2677,
+            "end": 2687
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:47:35",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2690,
+            "end": 2711
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:47:50",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2716,
+            "end": 2731
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:53:30",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                43838.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            24,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2786,
+            "end": 2806
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:53:48",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                43838.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            25,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2861,
+            "end": 2870
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:54:40",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                130391.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            32,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 2926,
+            "end": 2937
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:55:08",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                130391.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            30,
+            31,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3051,
+            "end": 3079
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:55:28",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                130391.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            31,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3175,
+            "end": 3183
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:56:09",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437719.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3240,
+            "end": 3259
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:57:00",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                217259.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            37,
+            38,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3323,
+            "end": 3342
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:57:42",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                199697.0,
+                437719.0,
+                "1d",
+                "1h",
+                "1d"
+            ]
+        ],
+        "selected_row_idxs": [
+            39,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3026,
+            "end": 3037
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:58:29",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                130078.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            30,
+            31,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3159,
+            "end": 3170
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:58:32",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                130078.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            30,
+            31,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3038,
+            "end": 3046
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:58:42",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                130078.0,
+                437719.0,
+                "12h",
+                "1h",
+                "12h"
+            ]
+        ],
+        "selected_row_idxs": [
+            30,
+            31,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3414,
+            "end": 3435
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:59:31",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            40,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3437,
+            "end": 3441
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:59:34",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            40,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3443,
+            "end": 3462
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:59:41",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            41,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3484,
+            "end": 3505
+        },
+        "pt": "178300",
+        "time": "2023-03-30 13:59:59",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438033.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42,
+            44
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3464,
+            "end": 3483
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:00:14",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                438033.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            41,
+            42,
+            43
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3508,
+            "end": 3527
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:00:55",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3529,
+            "end": 3533
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:00:58",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "1h",
+                "1h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3535,
+            "end": 3557
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:01:41",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3565,
+            "end": 3582
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:01:46",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3590,
+            "end": 3600
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:01:50",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3601,
+            "end": 3609
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:01:55",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3680,
+            "end": 3688
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:02:17",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3690,
+            "end": 3696
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:02:24",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3709,
+            "end": 3715
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:02:26",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3720,
+            "end": 3739
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:02:30",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3653,
+            "end": 3678
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:02:37",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3756,
+            "end": 3758
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:02:59",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3759,
+            "end": 3761
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:02",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3762,
+            "end": 3765
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:05",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3787,
+            "end": 3790
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:11",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3792,
+            "end": 3799
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:13",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3801,
+            "end": 3805
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:16",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3819,
+            "end": 3822
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:20",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                434269.0,
+                438033.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3773,
+            "end": 3778
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:03:59",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3839,
+            "end": 3853
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:04:24",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3928,
+            "end": 3944
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:04:51",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4000,
+            "end": 4007
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:05:06",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4012,
+            "end": 4020
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:05:10",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4110,
+            "end": 4116
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:05:20",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4571,
+            "end": 4585
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:05:51",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4609,
+            "end": 4620
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:06:00",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                92760.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3832,
+            "end": 3838
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:07:07",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437719.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3867,
+            "end": 3879
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:07:54",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                88996.0,
+                94641.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3908,
+            "end": 3920
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:08:22",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                -1634.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            0,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3897,
+            "end": 3904
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:08:47",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                93387.0,
+                437719.0,
+                "2h",
+                "2h",
+                "2h"
+            ]
+        ],
+        "selected_row_idxs": [
+            26,
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3968,
+            "end": 3972
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:09:17",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 3987,
+            "end": 3993
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:09:23",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4039,
+            "end": 4065
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:09:37",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4021,
+            "end": 4032
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:09:40",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4074,
+            "end": 4084
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:09:58",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4085,
+            "end": 4099
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:10:05",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4118,
+            "end": 4123
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:10:09",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4134,
+            "end": 4150
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:10:14",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4176,
+            "end": 4188
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:10:30",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4222,
+            "end": 4235
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:10:52",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4239,
+            "end": 4247
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:11:02",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4273,
+            "end": 4280
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:11:07",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4294,
+            "end": 4310
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:11:13",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4312,
+            "end": 4321
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:11:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4332,
+            "end": 4344
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:11:37",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4358,
+            "end": 4392
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:23",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4401,
+            "end": 4407
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:28",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4411,
+            "end": 4428
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:33",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4437,
+            "end": 4453
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:37",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4461,
+            "end": 4471
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:41",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4472,
+            "end": 4484
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:43",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4494,
+            "end": 4500
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:48",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4501,
+            "end": 4518
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:52",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4522,
+            "end": 4531
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:12:55",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4596,
+            "end": 4603
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:13:08",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4638,
+            "end": 4659
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:13:24",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "bounding",
+            [
+                "-inf",
+                437405.0,
+                "",
+                "",
+                ""
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4697,
+            "end": 4706
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:13:47",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4712,
+            "end": 4715
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:13:50",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4719,
+            "end": 4740
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:13:55",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4742,
+            "end": 4745
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:14:00",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4779,
+            "end": 4783
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:14:03",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4788,
+            "end": 4799
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:14:05",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4800,
+            "end": 4803
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:14:09",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4546,
+            "end": 4553
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:14:36",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4558,
+            "end": 4563
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:14:40",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4189,
+            "end": 4197
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:15:13",
+        "negated": false,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    },
+    {
+        "text_position": {
+            "start": 4160,
+            "end": 4169
+        },
+        "pt": "178300",
+        "time": "2023-03-30 14:15:22",
+        "negated": true,
+        "annotator": "frattallone",
+        "timeline_label_relative": [
+            "probabilistic",
+            [
+                433329.0,
+                437405.0,
+                "2h",
+                "2h",
+                "1h"
+            ]
+        ],
+        "selected_row_idxs": [
+            42
+        ]
+    }
+]
