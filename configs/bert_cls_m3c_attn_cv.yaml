@@ -1,0 +1,40 @@
+defaults:
+  - _self_
+  - data: event_cls_mm_cv
+  - model: bert_cls_attn
+  - trainer: base_trainer_cls
+  - override hydra/job_logging: custom
+
+label: ""
+cv_idx: 0
+test: false
+test_all_split: true
+seed: 42
+
+# ===== BERT base model =====
+# bert_base_name: bert
+bert_base_name: bluebertbase
+# bert_base_name: bluebertlarge
+bert_base_model: ${get_model_str:${bert_base_name}}
+
+# ===== mean 1d threshold, std simple (3) classes =====
+mean_threshold: 86400
+mean_num_classes: 3
+std_cls_type: simple
+std_num_classes: 3
+lb_mean_pred_cols: [3, 4, 5]
+ub_mean_pred_cols: [6, 7, 8]
+lb_std_pred_cols: [9, 10, 11]
+ub_std_pred_cols: [12, 13, 14]
+dur_std_pred_cols: [15, 16, 17]
+
+output_dir: results/event_cls_m3c_attn${append_label:${label}}_s${seed}/${bert_base_name}_cls_attn_mean${mean_num_classes}c_std${std_cls_type}/${cv_idx}
+
+hydra:
+  run:
+    dir: ${output_dir}
+  sweep:
+    dir: ${output_dir}/..
+  sweeper:
+    params:
+      cv_idx: 0,1,2,3,4

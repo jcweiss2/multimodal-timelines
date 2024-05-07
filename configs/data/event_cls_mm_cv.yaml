@@ -1,0 +1,22 @@
+dataset_dir: &dataset_dir data/event_pakdd2024_cv/${cv_idx}
+table_file: &table_file data/timeline_i2b2_5col_pakdd2024.csv
+
+name: event_classification_multimodal_dataset
+data_common: &data_common
+  dataset_dir: *dataset_dir
+  table_file: *table_file
+  tokenizer_name: ${bert_base_model}
+  max_seq_length: 128
+  mean_threshold: ${mean_threshold}
+  mean_num_classes: ${mean_num_classes}
+  std_cls_type: ${std_cls_type}
+params:
+  train:
+    <<: *data_common
+    data_file: train.json
+  dev:
+    <<: *data_common
+    data_file: dev.json
+  test:
+    <<: *data_common
+    data_file: test.json

@@ -1,0 +1,153 @@
+name: base_trainer
+params:
+  output_dir: ${output_dir}
+  use_gpu: true
+  num_gpus: 1
+  data_loader:
+    batch_size: 32
+    num_workers: 4
+    shuffle: true
+    drop_last: true
+  time_prediction_mode: "classification"
+  optimizer:
+    name: adam
+    params:
+      lr: 0.00005
+      weight_decay: 0.0
+  max_epochs: 20
+  lr_scheduler: null
+  stopping_criterion:
+    metric:
+      name: loss_total
+    desired: min
+    patience: 999
+  checkpoint_saver:
+    name: base_saver
+    params:
+      checkpoint_dir: ${output_dir}
+      interval: 1
+      max_to_keep: 1
+      ckpt_fname_format: "ckpt-{}.pth"
+      best_fname_format: "best-{}.pth"
+      metric:
+        name: loss_total
+      desired: min
+  eval_metrics: &eval_metrics
+    - name: lb_inf_acc
+      class: accuracy
+      params:
+        column: 0
+    - name: ub_inf_acc
+      class: accuracy
+      params:
+        column: 1
+    - name: event_type_acc
+      class: accuracy
+      params:
+        column: 2
+    - name: lb_mean_acc
+      class: accuracy
+      params:
+        true_column: 3
+        pred_column: ${lb_mean_pred_cols}
+        filter_column: 0
+        filter_value: 1.0
+    - name: lb_mean_f1
+      class: f1_score
+      params:
+        true_column: 3
+        pred_column: ${lb_mean_pred_cols}
+        filter_column: 0
+        filter_value: 1.0
+    - name: ub_mean_acc
+      class: accuracy
+      params:
+        true_column: 4
+        pred_column: ${ub_mean_pred_cols}
+        filter_column: 1
+        filter_value: 1.0
+    - name: ub_mean_f1
+      class: f1_score
+      params:
+        true_column: 4
+        pred_column: ${ub_mean_pred_cols}
+        filter_column: 1
+        filter_value: 1.0
+    - name: lb_std_acc
+      class: accuracy
+      params:
+        true_column: 5
+        pred_column: ${lb_std_pred_cols}
+        filter_column: 2
+        filter_value: 1.0
+    - name: lb_std_f1
+      class: f1_score
+      params:
+        true_column: 5
+        pred_column: ${lb_std_pred_cols}
+        filter_column: 2
+        filter_value: 1.0
+    - name: ub_std_acc
+      class: accuracy
+      params:
+        true_column: 6
+        pred_column: ${ub_std_pred_cols}
+        filter_column: 2
+        filter_value: 1.0
+    - name: ub_std_f1
+      class: f1_score
+      params:
+        true_column: 6
+        pred_column: ${ub_std_pred_cols}
+        filter_column: 2
+        filter_value: 1.0
+    - name: dur_std_acc
+      class: accuracy
+      params:
+        true_column: 7
+        pred_column: ${dur_std_pred_cols}
+        filter_column: 2
+        filter_value: 1.0
+    - name: dur_std_f1
+      class: f1_score
+      params:
+        true_column: 7
+        pred_column: ${dur_std_pred_cols}
+        filter_column: 2
+        filter_value: 1.0
+  graph:
+    writer:
+      name: tensorboard
+      params:
+        log_dir: ${output_dir}
+    train:
+      interval: 10
+      interval_unit: step
+      metric:
+        - name: loss_total
+        - name: loss_cls
+        - name: loss_mean
+        - name: loss_std
+    val:
+      interval: 1
+      interval_unit: epoch
+      metric:
+        - name: loss_total
+        - name: loss_cls
+        - name: loss_mean
+        - name: loss_std
+        - name: lb_inf_acc
+        - name: ub_inf_acc
+        - name: event_type_acc
+        - name: lb_mean_acc
+        - name: lb_mean_f1
+        - name: ub_mean_acc
+        - name: ub_mean_f1
+        - name: lb_std_acc
+        - name: lb_std_f1
+        - name: ub_std_acc
+        - name: ub_std_f1
+        - name: dur_std_acc
+        - name: dur_std_f1
+  test_last_ckpt: true
+  test_save_output: true

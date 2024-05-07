@@ -1,0 +1,22 @@
+name: bert_attention_classification
+params:
+  base_model: ${bert_base_model}
+  use_subj_end: false
+  cls_loss: binary_cross_entropy
+  cls_lambda: 1.0
+  mean_num_classes: ${mean_num_classes}
+  mean_loss: cross_entropy
+  mean_lambda: 1.0
+  std_num_classes: ${std_num_classes}
+  std_loss: cross_entropy
+  std_lambda: 1.0
+  attention_embed: subject
+  attention_loss: xentropy
+  attention_lambda: 1.0
+  attention_negsam: 10000
+  use_attn_output: true
+  fusion_attn_weighted_t: add
+  loss_weight_pre_residual: 0.0
+  loss_weight_residual: 0.0
+  bert_share_weight: true
+  bert_finetune: false

@@ -1,0 +1,20 @@
+version: 1
+formatters:
+  simple:
+    format: "%(asctime)s — %(name)s — %(levelname)s — %(message)s"
+handlers:
+  file:
+    class: atp.utils.logger.MakeFileHandler # logging.FileHandler
+    formatter: simple
+    filename: ${output_dir}/${select:${test},"test","train"}_log.txt
+    level: DEBUG
+  console:
+    class: logging.StreamHandler
+    stream: ext://sys.stdout
+    level: INFO
+
+root:
+  handlers: [console, file]
+  level: DEBUG
+
+disable_existing_loggers: false
