@@ -55,7 +55,7 @@ notat = tibble(
 # seed_annotation_file = "<your-saved-annotation-file>"
 seed_annotation_file = NULL # Use this if no preloaded annotation exists
 
-annotation_directory = "/Users/weissjc/note_browser_pakdd2024/logging"
+
 if(!dir.exists(annotation_directory)) {
   dir.create(annotation_directory, recursive = T)
 }
