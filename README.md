@@ -3,7 +3,7 @@
 Code for our PAKDD2024 paper: "Using Multimodal Data to Improve Precision of Inpatient Event Timelines". Lecture Notes in Artificial Intelligence, Springer, 2024.  
 Authors: Gabriel Frattallone-Llado\*, Juyong Kim\*, Cheng Cheng, Diego Salazar, Smitha Edakalavan, and Jeremy C. Weiss
 
-[Pre-print](https://github.com/jcweiss2/multimodal-timelines/blob/raw/PAKDD_2024___Multimodal_Event_Timelines_Preprint.pdf)  
+[Pre-print](https://github.com/jcweiss2/multimodal-timelines/raw/main/PAKDD_2024___Multimodal_Event_Timelines_Preprint.pdf)  
 [Version of Record](https://link.springer.com/chapter/10.1007/978-981-97-2238-9_25)
 
 ## Setting up
