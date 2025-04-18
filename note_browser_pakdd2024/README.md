@@ -1,5 +1,5 @@
 This folder (note_browser_pakdd2024) contains code for the R Shiny visualization tool to
-load multi-modal data (structured and unstructred data) and to annotate the case reports.
+load multi-modal data (structured and unstructured data) and to annotate the case reports.
 
 To run, set the paths in 'main.R' and run.
 
